@@ -1,0 +1,14 @@
+*.log
+*.restore
+*.swp
+*.tmp
+*.bak
+
+.vscode/
+.idea/
+
+*.png~
+*.jpg~
+
+.DS_Store
+Thumbs.db
